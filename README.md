@@ -1,0 +1,2 @@
+# Cypress-XPathLocators
+XPathLocators case
